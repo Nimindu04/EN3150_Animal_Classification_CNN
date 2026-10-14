@@ -1,0 +1,4 @@
+Optimizer,Trainable Parameters,Checkpoint Size (MB),Single Image Inference (ms),Approx. Inferences per Second
+SGD,8290,0.0451,1.436,696.43
+SGD_Momentum,8290,0.0455,0.883,1132.14
+Adam,8290,0.0451,1.092,916.13

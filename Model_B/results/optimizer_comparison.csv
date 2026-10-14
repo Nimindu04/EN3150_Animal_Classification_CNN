@@ -1,0 +1,4 @@
+Optimizer,Final Training Accuracy (%),Final Validation Accuracy (%),Best Validation Accuracy (%),Best Epoch,Final Training Loss,Final Validation Loss,Average Epoch Time (s)
+SGD,52.11,50.9,50.9,20,1.3823,1.4168,48.2
+SGD_Momentum,62.38,57.19,57.19,20,1.0859,1.2612,51.89
+Adam,61.93,57.19,57.52,18,1.1023,1.2644,54.3
